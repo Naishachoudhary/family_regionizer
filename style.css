@@ -1,0 +1,20 @@
+body {
+    background-color: #d98bbc;
+}
+
+.heading {
+    color: rgb(180, 239, 158);
+    font-size: 24px;
+}
+
+.faces {
+    font-size: 20px;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#camera { 
+    border: 4px dotted burlywood;
+    width: 340px;
+    height: 300px;
+}
